@@ -24,4 +24,4 @@ We have adapted our Python curriculum from Software Carpentries' [Programming an
 
 We have adapted the Software Carpentry (SC) version of the workshop based on experience teaching it. We have great respect for the SC organization and its aims. Adapting and customizing the workshop (and giving credit where it is due) is in the spirit of the open source movement and open educational resources, which SURGE wholeheartedly supports.
 
-[Go to the *SURGE Discover Python* lesson](syllabus.md)
+[Go to the *SURGE Discover Python* lesson](https://surge-dalhousie.github.io/discover-python-gapminder/)

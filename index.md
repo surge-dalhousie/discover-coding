@@ -3,7 +3,7 @@ Welcome to the official site for the [SURGE](https://surgeinnovation.ca) [Discov
 The SURGE Discover Coding series is **aimed at people from science disciplines who have no previous experience with a programming language**. We teach the basic of coding using Python, a very popular language used in science and data science (with plans to expand into the R language in the near future). If you have programmed before, but are new to Python, you will also find these workshops useful (if perhaps a bit slow at times).
 
 ## Upcoming Workshops
-Our next FREE workshop series is [Discover Python](#discover-python), running on Thursdays 2:30-4:30 PM ADT from May 13 - June 17. [Click here to register](https://surge-discover-python-summer.eventbrite.ca).
+Please check out the [SURGE events page](https://www.surgeinnovation.ca/events) for upcoming workshops.
 
 ## Our Approach
 
